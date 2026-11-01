@@ -7,7 +7,7 @@ const projects = [
     description: "My first digital portfolio, built with React and Tailwind CSS.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS"],
-    githubUrl: "#",
+    githubUrl: "https://github.com/davigregnanim/portfolio-react",
   },
   {
     id: 2,
